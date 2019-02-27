@@ -1,1 +1,7 @@
 data/
+.jupyter/
+.local/
+*.pyc
+__pycache__/
+.ipython/
+.ipynb_checkpoints/

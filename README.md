@@ -1,5 +1,15 @@
 # Intro to Data Science: Traffic Stop Analysis
 
+## Usage
+
+Requirements: Docker/docker-compose.
+
+Run:
+
+    docker-compose up -d jupyter
+    
+Then navigate to [http://localhost:8888](http://localhost:8888) in your browser.  Open `Analysis.ipynb`.
+
 ## Setup
 
 Requirements: a UNIX-like OS (Mac or Linux), unzip, wget, xz, and Docker/docker-compose.

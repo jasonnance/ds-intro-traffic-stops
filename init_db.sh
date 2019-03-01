@@ -46,6 +46,6 @@ FROM
     JOIN nc_person p USING (stop_id)
     LEFT JOIN nc_search se USING (stop_id, person_id)
 WHERE
-  s.date BETWEEN '2016-01-01 00:00' AND '2017-01-01 00:00'
+  s.date BETWEEN '2016-01-01 00:00' AND '2016-01-08 00:00'
   AND p.type = 'D'
 );"

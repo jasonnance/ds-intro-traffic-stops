@@ -1,5 +1,7 @@
 # Intro to Practical Data Science: Traffic Stop Analysis
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasonnance/ds-intro-traffic-stops/master?filepath=Analysis.ipynb)
+
 ## Usage
 
 Requirements: Docker/docker-compose.

@@ -1,4 +1,4 @@
-# Intro to Data Science: Traffic Stop Analysis
+# Intro to Practical Data Science: Traffic Stop Analysis
 
 ## Usage
 
